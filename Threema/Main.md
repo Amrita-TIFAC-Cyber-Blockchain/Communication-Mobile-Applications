@@ -20,9 +20,17 @@
 
 ## Certificate 
 
-| Application Name | Threema |
-|------------------|---------|
 | Signature Algorithm | SHA256withRSA |
+|------------------|---------|
 | Valid From | 28/04/2013 1:42 AM |
 | Valid To | 13/09/2040 1:42 AM |
+
+## Components 
+
+| Component Name | Count  |
+|------------------|---------|
+| Activity | 98 |
+| Broadcast Receiver | 16 |
+| Service | 30 |
+| Content Provider | 4 |
 
